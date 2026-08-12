@@ -1,5 +1,6 @@
 first line from amaan
 second line of th code
+<<<<<<< HEAD
 
 line from areena
 
@@ -10,3 +11,5 @@ this is going to be the fourht commit
 what the hell
 
 this coomit is from the virtual box linux machine
+=======
+>>>>>>> parent of 3ce2cde (third commit)
